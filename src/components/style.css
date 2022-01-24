@@ -1,0 +1,33 @@
+input{
+    padding: 5px;
+    margin: 8px;
+    border: none;
+    border-radius: 20px;
+    border-bottom: 2px solid green;
+}
+
+::placeholder{
+    text-align: center;
+}
+
+.btn{
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid rgb(19, 168, 179);
+    color: white;
+    background-color: rgb(19, 168, 179);
+}
+*{
+    background-color: azure;
+}
+
+.main{
+    padding: 5px;
+    margin: auto;
+    width: 40%;
+}
+.input{
+    margin: auto;
+    background-color: greenyellow;
+    border-radius: 20px;
+}
